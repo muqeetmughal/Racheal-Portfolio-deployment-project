@@ -1,0 +1,79 @@
+.navbar-nav .nav-link {
+     color: rgb(165, 112, 112) !important; 
+    
+}
+.navbar-light .navbar-brand {
+    color: white;
+    font-size: 4rem;
+    text-shadow: 2px 2px red;
+    font-family: 'Great Vibes', cursive;
+
+}
+
+
+.navbar-nav .nav-link:hover {
+    color: black !important;
+}
+
+body {
+    background-image: url(https://res.cloudinary.com/dcrioc0sw/image/upload/v1617898598/pawel-czerwinski-QY5U8JD3-tk-unsplash_r7dplp.jpg) ;
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+    color: black;
+    
+}
+p {
+    color:#F9E9E9;
+    font-size: 20px;
+    font-family: 'Orbitron', sans-serif;
+
+}
+
+a.navbar-brand {
+    font-size: 2rem;
+    font-family: 'Parisienne', cursive; 
+    
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+h2{
+    font-family: 'Orbitron', sans-serif; 
+    
+    
+}
+h3{
+    font-size: 50px;
+    font-family: 'Great Vibes', cursive;
+    color:#FFDB15;
+
+}
+ 
+
+
+
+
+
+#blogtitle {
+    font-size: 3rem;
+}
+
+@media (min-width: 992px) {
+    #hometext {
+        font-size: 1.8rem;
+        color: rgb(46, 55, 63);
+    }
+    #blogtailtitle {
+        font-size: 5rem;
+    }
+    .col-lg-4 {
+        background-color:#F51663;
+        opacity: 0.6;
+    }
+    
+}
+
+
